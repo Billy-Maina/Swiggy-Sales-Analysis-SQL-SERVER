@@ -1,4 +1,4 @@
-# Swiggy Sales Analysis: Data Analytics SQL Project
+# Swiggy Sales Analysis - SQL Project
 
 ## Project Overview
 This project analyzes a dataset of **197,430 food delivery records** from Swiggy, spanning states, cities, restaurants, categories, and dishes across India. 
