@@ -1,20 +1,11 @@
 # Swiggy Sales Analysis - SQL Project
 
 ## Project Overview
-This project analyzes a dataset of **197,430 food delivery records** from Swiggy, spanning states, cities, restaurants, categories, and dishes across India. 
-
-**Key Performance Metrics**:
-- **Total Orders**: 197,430
-- **Total Revenue**: 53.01 Million INR
-- **Average Dish Price**: 268.51 INR
-- **Average Rating**: 4.34
-
-The end-to-end workflow includes data cleaning and validation, dimensional modeling using a **Star Schema** for optimized analytics, and development of actionable KPIs and insights covering sales trends, location performance, food popularity, customer spending patterns, and rating distributions.
-
-## Project Objectives
-- Ensure high data quality through null checks, blank string detection, and duplicate removal
-- Build a scalable **Star Schema** dimensional model for efficient querying and reporting
-- Deliver core KPIs and deep-dive business analyses aligned with food delivery performance metrics
+This project analyzes a dataset of 197,430 food delivery records from Swiggy, spanning states, cities,restaurants, categories, and dishes across India. Key performance metrics include Total Orders (197,430),
+Total Revenue (53.01 Million INR), Average Dish Price (268.51 INR), and Average Rating (4.34). The
+structured approach involves data cleaning and validation for quality assurance, dimensional modeling
+via a Star Schema for optimized querying, and KPI development to derive actionable insights on sales
+trends, location performance, food metrics, customer spending patterns, and ratings distribution.
 
 ## Analytical Objectives
 - Time-based trends (monthly, quarterly, yearly, day-of-week)
@@ -29,8 +20,6 @@ The end-to-end workflow includes data cleaning and validation, dimensional model
 3. **Data Population**  
 4. **KPI & Insight Queries**  
 5. **Visualization Recommendations**
-
-**Tech Stack**: SQL Server, Python (pandas, matplotlib for visualization), Jupyter Notebook
 
 ---
 
